@@ -1,2 +1,18 @@
-# Bus-Ticket-Booking-Interface
-🚌 Bus Ticket Interface in Python A simple Python project that provides an interactive interface for booking bus tickets. Users can select routes,  view fares, and generate ticket details.  this project is ideal for beginners to practice Python basics such as functions, conditionals, and user input handling.
+
+🚌 Bus Ticket Booking Terminals (Python Project)
+
+Just built a Bus Ticket Booking Terminal using Python! 🚀
+This project simulates a ticket counter experience where users can:
+
+Select departure and destination points
+
+Calculate total fare
+
+Generate a ticket with travel details
+
+
+The goal was to practice Python fundamentals like loops, conditionals, and functions, while designing a simple terminal-based booking system.
+
+Excited to keep improving it by adding seat availability, payment options, and multiple passenger bookings in the future! 🔥
+
+#Python #Project #CodingJourney #BusTicketBooking
